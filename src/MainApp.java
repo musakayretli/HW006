@@ -3,7 +3,7 @@ public class MainApp {
         System.out.println("musa kayretli");
         System.out.println("yaptım hocam");
         System.out.println("güncelleme deneme ");
-
+        System.out.println("gitaptan ekledim");
 
     }
 }
